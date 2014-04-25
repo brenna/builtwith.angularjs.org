@@ -6,6 +6,7 @@
     "thumb": "csshexagon/thumb.png",
     "desc": "A pure CSS hexagon generator. Create and preview your own CSS hexagon with box-shadow, border and background images.",
     "url": "http://csshexagon.com",
+    "src": "https://github.com/brenna/csshexagon",
     "submitter": "brenna",
     "submissionDate": "2014-04-24",
     "tags": [

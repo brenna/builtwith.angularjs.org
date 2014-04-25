@@ -2,6 +2,21 @@
   "featured": "YouTube on PS3",
   "projects": [
   {
+    "name": "CSS Hexagon, Please",
+    "thumb": "csshexagon/thumb.png",
+    "desc": "A pure CSS hexagon generator. Create and preview your own CSS hexagon with box-shadow, border and background images.",
+    "url": "http://csshexagon.com",
+    "submitter": "brenna",
+    "submissionDate": "2014-04-24",
+    "tags": [
+      "Production",
+      "Developer Tool",
+      "CSS3", "CSS Transforms", "HTML5", "Sass",
+      "Open Source",
+      "No jQuery"
+    ]
+  },
+  {
     "name": "APWGL",
     "thumb": "apwgl/thumb.png",
     "desc": "Fan made ARTPOP WebGL App. Renders WebGL to Gif.",
